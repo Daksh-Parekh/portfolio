@@ -48,6 +48,6 @@ Flutter developer with hands-on experience building cross-platform apps for iOS,
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daksh%20Parekh-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/daksh-parekh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daksh%20Parekh-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/daksh-parekh-97ab68313/)
 
 📩 Open to freelance projects and collaborations — feel free to connect!
